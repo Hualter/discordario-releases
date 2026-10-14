@@ -1,5 +1,7 @@
 # Discordário — downloads
 
-Instaladores para Windows. Este repositório contém somente binários públicos e checksums. O código-fonte permanece privado.
+Instaladores públicos para Windows. O código-fonte permanece privado.
 
-[Baixar instalador 0.2.3](https://github.com/Hualter/discordario-releases/releases/download/v0.2.3/Discordario-Setup-0.2.3.exe)
+[Baixar a versão mais recente](https://github.com/Hualter/discordario-releases/releases/latest)
+
+A partir da 0.2.3, use Configurações > Aplicativo > Buscar atualizações dentro do app.
